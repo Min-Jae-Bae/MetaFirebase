@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "793078263442",
+    "firebase_url": "https://metafirebase-cab31-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "metafirebase-cab31",
+    "storage_bucket": "metafirebase-cab31.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:793078263442:android:5cfe6791cec509f2bcc04b",
+        "android_client_info": {
+          "package_name": "com.minjae.meta"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "793078263442-oaukdbbfcs25v10aogrennc68tijkik0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDZyJIBEOpW6jLORzIOq-qBsWTbrnXCKkU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "793078263442-oaukdbbfcs25v10aogrennc68tijkik0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
